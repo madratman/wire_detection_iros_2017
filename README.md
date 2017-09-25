@@ -1,10 +1,4 @@
 <center>
- <h2>
-  Wire Detection using Synthetic Data and <br> Dilated Convolutional Networks for <br> Unmanned Aerial Vehicles
- </h2>
-</center>
-
-<center>
  <h3>
    Ratnesh Madaan, Daniel Maturana, Sebastian Scherer. <br>
    <a href="http://ri.cmu.edu/wp-content/uploads/2017/08/root.pdf">PDF</a>
