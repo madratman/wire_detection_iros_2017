@@ -1,11 +1,11 @@
 <center>
- <h3>
+ <h2>
    Ratnesh Madaan, Daniel Maturana, Sebastian Scherer. <br>
    <a href="http://ri.cmu.edu/wp-content/uploads/2017/08/root.pdf">PDF</a>
- </h3>
- <h4>
+ </h2>
+ <h3>
   All authors are with the Robotics Institute, Carnegie Mellon University. 
- </h4>
+ </h3>
 </center>
 
 
