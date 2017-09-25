@@ -1,6 +1,7 @@
 <center>
  <h2>
-   Ratnesh Madaan, Daniel Maturana, Sebastian Scherer. <br>
+   Welcome to the project page for our IROS 2017 paper! <br>
+   Code release coming soon! <br>
    <a href="http://ri.cmu.edu/wp-content/uploads/2017/08/root.pdf">PDF</a>
  </h2>
  <h3>
