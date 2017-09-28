@@ -9,7 +9,7 @@
  </h3>
 </center>
 
-### Why is wire detection an important, and hard problem?
+### Why makes wire detection a problem worth solving? How hard are wires to see for humans?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AwRc0Nn_UBQ" frameborder="0" allowfullscreen></iframe>
 
 ### Results on **real** test data after training on **only synthetic** data.   
