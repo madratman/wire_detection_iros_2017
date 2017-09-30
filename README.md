@@ -1,7 +1,7 @@
 <center>
  <h2>
    Welcome to the project page for our IROS 2017 paper! <br>
-
+   We're still recovering from the IROS Hang-vanc-over, and will be updating this page with more results on datasets and real world experiments soon!
 <a href="http://ri.cmu.edu/wp-content/uploads/2017/08/root.pdf">PDF</a>
  </h2>
  <h3>
